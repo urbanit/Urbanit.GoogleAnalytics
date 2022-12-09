@@ -9,4 +9,4 @@ Features:
 	Urbanit.GoogleAnalytics:
 		Name: Google Analytics
 		Category: Analytics
-		Description: Adds the Google Analytics (http://www.google.com/analytics/) web statistics tracking system to your website.
+		Description: Adds the Google Analytics (http://www.google.com/analytics/) web statistics tracking system to your website!
